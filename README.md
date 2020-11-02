@@ -10,8 +10,8 @@
 
 1. Clone the repo
 
-```
-$ git clone https://github.com/foundersandcoders/morning-challenge-traffic-lights.git
+```shell
+$ git clone https://github.com/ali-7/morning-challenge-traffic-lights.git
 ```
 
 2. Open the folder in your favourite text editor.
@@ -69,8 +69,6 @@ Your task is to replicate the traffic lights shown above. The only file you'll
 need to edit is `script.js`. Hopefully the instructional comments will speak for
 themselves.
 
-If you get stuck check out the [hints branch](https://github.com/foundersandcoders/morning-challenge-traffic-lights/tree/hints).
-
 ### Part 1:
 
 Light up the first traffic light in the following order:
@@ -108,7 +106,3 @@ Loop the second light with the following rules:
 
 :vertical_traffic_light: If successful you should see something like the
 gif above. :tada:
-
-### Solutions:
-
-Check out the two solution branches (solution and solution-fun) for two complete examples
