@@ -11,7 +11,7 @@
 1. Clone the repo
 
 ```shell
-$ git clone https://github.com/ali-7/morning-challenge-traffic-lights.git
+$ git clone https://github.com/GSG-G10/morning-challenge-traffic-lights.git
 ```
 
 2. Open the folder in your favourite text editor.
