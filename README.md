@@ -10,7 +10,7 @@
 1. Clone the repo
 
 ```shell
-$ git clone https://github.com/GSG-CA/morning-challenge-traffic-lights.git
+git clone https://github.com/GSG-CA/morning-challenge-traffic-lights.git
 ```
 
 2. Open the folder in your favourite text editor.
@@ -28,7 +28,7 @@ JavaScript's functions are "first-class". This means that they are treated exact
 Here are some examples of how functions can be used.
 
 #### Functions can be invoked/called:
-```
+```js
 function greeting(firstName, lastName) {
   alert('Hello ' + firstName + '  ' + lastName);
 }
@@ -36,7 +36,7 @@ greeting('Bob', 'Belcher'); // Hello Bob Belcher
 ```
 
 #### Functions can be assigned to a variable:
-```
+```js
 var greeting = function(firstName, lastName) {
   alert('Hello ' + firstName + '  ' + lastName);
 }
@@ -44,7 +44,7 @@ greeting('Tina', 'Belcher'); // Hello Tina Belcher
 ```
 
 #### Functions can be passed around as data:
-```
+```js
 function greeting(p1, p2) {
   return "Hello " + p1 + " and " + p2
 }
