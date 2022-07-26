@@ -1,6 +1,5 @@
 **Author**: [@finnhodgkin](https://github.com/finnhodgkin)
 
-**Maintainer**: [@finnhodgkin](https://github.com/finnhodgkin)  
 
 # Traffic light callback challenge:vertical_traffic_light:
 
@@ -11,7 +10,7 @@
 1. Clone the repo
 
 ```shell
-$ git clone https://github.com/GSG-G10/morning-challenge-traffic-lights.git
+$ git clone https://github.com/GSG-CA/morning-challenge-traffic-lights.git
 ```
 
 2. Open the folder in your favourite text editor.
