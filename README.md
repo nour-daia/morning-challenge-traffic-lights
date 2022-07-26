@@ -18,7 +18,7 @@ git clone https://github.com/GSG-CA/morning-challenge-traffic-lights.git
 3. For instant feedback on all your changes run live server :sparkles:
 
 ```
-$ npm i && npm run live
+npm i && npm run live
 ```
 
 ## What is a first-class function?
